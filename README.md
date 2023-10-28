@@ -1,5 +1,5 @@
 # Amazon-s-Clone
 
-This is Amazon's e-commerce website. Created only using HTML and CSS. It didn't include frontend frameworks like Bootstrap, Tailwind, etc...  
+Welcome to Amazon's e-commerce webpage. Created only using HTML and CSS. It didn't include frontend frameworks like Bootstrap, Tailwind, etc...  
 
-Made by Bhuvnesh ♥ 
+Cloned by Bhuvnesh ♥ 
